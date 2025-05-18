@@ -41,8 +41,6 @@ Filtered association rules (lift ≥ 6, confidence ≥ 0.8)
 🧪 Sample Recommendation
 For a customer basket like:
 
-python
-Copy
-Edit
 ["ALARM CLOCK BAKELIKE GREEN"]
+
 The system suggests related frequently bought items using learned association rules.
